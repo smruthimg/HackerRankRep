@@ -26,5 +26,5 @@ def countofwords(str):
     print(dictS)
     print(dictK)
 
-
-countofwords('BANANA')
+s=input()
+countofwords(s)
